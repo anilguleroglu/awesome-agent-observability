@@ -94,6 +94,7 @@ General-purpose OpenTelemetry backends that GenAI spans can be sent to when you 
 - [Agentgateway](https://github.com/agentgateway/agentgateway) - Linux Foundation proxy for agent-to-LLM, agent-to-MCP, and agent-to-agent (A2A) traffic with routing, guardrails, RBAC, and OpenTelemetry.
 - [Traceloop Hub](https://github.com/traceloop/hub) - Small Rust LLM gateway from the OpenLLMetry authors, with OTel emission built in.
 - [Kong](https://github.com/Kong/kong) - API gateway whose AI plugins add LLM routing, token metrics, and request logging to an existing gateway deployment.
+- [Cognipeer Console](https://github.com/Cognipeer/console) - Self-hosted multi-tenant AI gateway that routes LLM calls through an OpenAI-compatible API and also ingests agent traces over OTLP/HTTP JSON, with guardrails, evaluations and an MCP hub; AGPL-3.0 community edition, with commercial licensing and enterprise offerings available separately.
 
 ## Model Context Protocol
 
